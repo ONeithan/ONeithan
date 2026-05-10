@@ -8,9 +8,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/oneithann)
 [![YouTube](https://img.shields.io/badge/YouTube-282828?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oneithann)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oneithan/)
-
-</div>
-
 ---
 
 ## 👤 **O Arquiteto do Vazio**
@@ -58,6 +55,8 @@ Sou um desenvolvedor do **Paraná** que abraçou a revolução da IA. Não perco
 
 ---
 
+
+<div align="center">
 
 ```
 ███╗   ██╗███████╗██╗  ██╗██╗   ██╗███████╗
