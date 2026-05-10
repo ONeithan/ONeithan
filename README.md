@@ -11,10 +11,10 @@
 
 ---
 
-[![Website](https://img.shields.io/badge/Portfólio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://oneithan.com.br)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/oneithann)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oneithann)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oneithan/)
+[![Website](https://img.shields.io/badge/Portfólio-121019?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oneithan.com.br)
+[![Twitch](https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/oneithann)
+[![YouTube](https://img.shields.io/badge/YouTube-282828?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oneithann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oneithan/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XbHYKty)
 
 </div>
@@ -84,9 +84,9 @@ Confira o vídeo feito com IA sobre o meu livro:
 
 <div align="center">
 
-![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=ONeithan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF)
+![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=ONeithan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ONeithan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ONeithan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2)
 
 </div>
 
