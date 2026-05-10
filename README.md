@@ -94,9 +94,11 @@ Confira o vídeo feito com IA sobre o meu livro:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ONeithan&show_icons=true&theme=dark" alt="Stats do GitHub" />
+<img src="https://github-profile-trophy.vercel.app/?username=ONeithan&theme=radical" alt="Troféus do GitHub" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ONeithan&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ONeithan&theme=radical&hide_border=true" alt="Streak do GitHub" />
 
 </div>
 
