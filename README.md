@@ -33,8 +33,9 @@ Sou um desenvolvedor do **Paraná** que abraçou a revolução da IA. Não perco
 - 📍 **Localização:** Paraná, Brasil 🇧🇷
 - 🌐 **Meu Site:** [oneithan.com.br](https://oneithan.com.br) *(Em desenvolvimento & constante progressão)*
 - 🤖 **Estilo:** AI-Driven Development (Programador Nutella)
-- 🎙️ **Streaming:** Faço lives na Twitch e YouTube sobre dev, jogos e tecnologia.
-- 💬 **Discord:** Me encontra como `ONeithan` ou no meu servidor [Nexus Hub](https://discord.gg/XbHYKty).
+- 🎮 **Twitch:** [twitch.tv/oneithann](https://www.twitch.tv/oneithann) — Lives sobre dev, IA e tecnologia!
+- 📺 **YouTube:** [@oneithann](https://www.youtube.com/@oneithann) — Conteúdo focado em programação e no meu livro.
+- 💬 **Discord:** Me encontra como `ONeithan` ou no meu servidor [ONeithan](https://discord.gg/XbHYKty).
 
 ---
 
@@ -53,6 +54,15 @@ Um fork personalizado da OpenClaude. Estou refinando essa interface neural para 
 ### 🎬 [Nexus PobreFlix](https://github.com/ONeithan/Nexus-PobreFlix)
 **O Jellyfin do meu jeito.**  
 Um fork de plugin para Jellyfin onde redesenhei menus, interfaces e funcionalidades. É o streaming como eu sempre quis: fluido e visualmente impecável.
+
+---
+
+## 📺 **Transmissões & Conteúdo**
+
+Se você quer ver como um **Programador Nutella** trabalha de verdade (ou seja, conversando com a IA enquanto toma um café), me segue aqui:
+
+- 🎮 **[Twitch](https://www.twitch.tv/oneithann)** — Lives quase diárias de código e papo sobre tecnologia.
+- 📺 **[YouTube](https://www.youtube.com/@oneithann)** — Onde posto vídeos mais detalhados sobre meus projetos e a evolução do meu livro.
 
 ---
 
@@ -84,9 +94,9 @@ Confira o vídeo feito com IA sobre o meu livro:
 
 <div align="center">
 
-![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=ONeithan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2)
+![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=ONeithan&show_icons=true&theme=radical&hide_border=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ONeithan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=ONeithan&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
