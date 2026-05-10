@@ -2,16 +2,7 @@
 
 <div align="center">
 
-```
-███╗   ██╗███████╗██╗  ██╗██╗   ██╗███████╗
-████╗  ██║██╔════╝╚██╗██╔╝██║   ██║██╔════╝
-██╔██╗ ██║█████╗   ╚███╔╝ ██║   ██║███████╗
-██║╚██╗██║██╔══╝   ██╔██╗ ██║   ██║╚════██║
-██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝███████║
-╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-```
-
-<img src="Logo NEXUS.png" width="350" alt="Logo Nexus">
+<img src="Logo NEXUS.png" width="400" alt="Logo Nexus">
 
 ### 🌌 **Bem-vindo ao Nexus de ONeithan** 🌌
 
@@ -103,4 +94,17 @@ Confira o vídeo feito com IA sobre o meu livro:
 
 <div align="center">
   <sub>Desenvolvido no Paraná · Potencializado por IA · <a href="https://oneithan.com.br">oneithan.com.br</a></sub>
+
+<br>
+
+```
+███╗   ██╗███████╗██╗  ██╗██╗   ██╗███████╗
+████╗  ██║██╔════╝╚██╗██╔╝██║   ██║██╔════╝
+██╔██╗ ██║█████╗   ╚███╔╝ ██║   ██║███████╗
+██║╚██╗██║██╔══╝   ██╔██╗ ██║   ██║╚════██║
+██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝███████║
+╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+```
+
+*“O fim é apenas o começo de um novo ciclo no Nexus.”*
 </div>
