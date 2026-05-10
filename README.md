@@ -1,106 +1,55 @@
 <!-- ONeithan — GitHub Profile README -->
-### 🌌 **Bem-vindo ao Nexus de ONeithan** 🌌
 
-**Programador Nutella**  
-*Uso IA na cara dura pra tudo e não me arrependo. Se o código tá funcionando, o prompt foi bom!* 🤖✨
+### 👋 Hello World! Eu sou o Nathan (ONeithan)!
 
----
+Sou um desenvolvedor do **Paraná** apaixonado por tecnologia e automação. Me considero um **Programador Nutella** assumido: uso IA na cara dura para tudo, porque acredito que a inteligência artificial é a maior ferramenta de produtividade da nossa era.
 
-[![Website](https://img.shields.io/badge/Portfólio-121019?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oneithan.com.br)
-[![Twitch](https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/oneithann)
-[![YouTube](https://img.shields.io/badge/YouTube-282828?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oneithann)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oneithan/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XbHYKty)
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ONeithan&theme=radical" alt="Troféus do GitHub" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ONeithan&theme=radical&hide_border=true" alt="Streak do GitHub" />
 </div>
 
 ---
 
-## 👤 **O Arquiteto do Vazio**
-
-Olá! Eu sou o **Nathan Oliveira** (ou **ONeithan**).  
-Sou um desenvolvedor do **Paraná** que abraçou a revolução da IA. Não perco tempo reinventando a roda se posso pedir pro "estagiário de silício" fazer o trabalho pesado enquanto eu foco na arquitetura e na visão do projeto.
-
-> *"O conhecimento é uma ponte entre o registro arcaico e o vácuo estelar."*
-
->*"Se não existe, eu faço. Se existe, eu faço do meu jeito."*
-
-- 📍 **Localização:** Paraná, Brasil 🇧🇷
-- 🌐 **Meu Site:** [oneithan.com.br](https://oneithan.com.br) *(Em desenvolvimento & constante progressão)*
-- 🤖 **Estilo:** AI-Driven Development (Programador Nutella)
-- 🎮 **Twitch:** [twitch.tv/oneithann](https://www.twitch.tv/oneithann) — Lives sobre dev, IA e tecnologia!
-- 📺 **YouTube:** [@oneithann](https://www.youtube.com/@oneithann) — Conteúdo focado em programação e no meu livro.
-- 💬 **Discord:** Me encontra como `ONeithan` ou no meu servidor [ONeithan](https://discord.gg/XbHYKty).
+- 🌌 | Atualmente focado em expandir o **Ecossistema Nexus** (Hub, VORXYN e PobreFlix).
+- 🤖 | Especialista em AI-Driven Development e integração de modelos neurais no workflow.
+- 📖 | Autor e criador de conteúdo no YouTube e Twitch sobre desenvolvimento e literatura.
 
 ---
 
-## 🚀 **Ecossistema Nexus**
+### ✨ Skills & Ferramentas
 
-Meus projetos são extensões da minha necessidade de ordem e beleza no caos digital.
+**Linguagens de Programação**  
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
 
-### 💰 [Nexus Hub](https://github.com/ONeithan/Nexus-Hub)
-**O sistema financeiro definitivo para Obsidian.**  
-Um plugin poderoso para transformar seu segundo cérebro em uma central de controle financeiro gamificada e profissional.
-
-### 👁️ [Nexus VORXYN](https://github.com/ONeithan/Nexus-V-O-R-X-Y-N)
-**O Oráculo do Nexus.**  
-Um fork personalizado da OpenClaude. Estou refinando essa interface neural para canalizar a inteligência artificial da forma mais eficiente possível para o meu workflow.
-
-### 🎬 [Nexus PobreFlix](https://github.com/ONeithan/Nexus-PobreFlix)
-**O Jellyfin do meu jeito.**  
-Um fork de plugin para Jellyfin onde redesenhei menus, interfaces e funcionalidades. É o streaming como eu sempre quis: fluido e visualmente impecável.
-
----
-
-## 📺 **Transmissões & Conteúdo**
-
-Se você quer ver como um **Programador Nutella** trabalha de verdade (ou seja, conversando com a IA enquanto toma um café), me segue aqui:
-
-- 🎮 **[Twitch](https://www.twitch.tv/oneithann)** — Lives quase diárias de código e papo sobre tecnologia.
-- 📺 **[YouTube](https://www.youtube.com/@oneithann)** — Onde posto vídeos mais detalhados sobre meus projetos e a evolução do meu livro.
+**Ferramentas & Frameworks**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" alt="Jellyfin" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="IA" />
+</p>
 
 ---
 
-## 📖 **Além do Código: Meu Livro**
+### 📡 Onde me encontrar
 
-Também sou escritor e compartilho minha jornada criativa no YouTube.  
-Confira o vídeo feito com IA sobre o meu livro:
-
-**[A morte é realmente o fim? — Assista aqui](https://www.youtube.com/watch?v=rAVi7sCEJO0)**  
-📖 Leia mais sobre o livro em [oneithan.com.br](https://oneithan.com.br)
-
----
-
-## 🛠️ **Ferramentas de Poder**
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![OpenAI](https://img.shields.io/badge/IA_Poderosa-000000?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
----
-
-## 📊 **Frequência do Nexus**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ONeithan&theme=radical" alt="Troféus do GitHub" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ONeithan&theme=radical&hide_border=true" alt="Streak do GitHub" />
-
-</div>
+- 🌐 **Meu Site:** [oneithan.com.br](https://oneithan.com.br) *(Em dev)*
+- 🎮 **Twitch:** [twitch.tv/oneithann](https://www.twitch.tv/oneithann)
+- 📺 **YouTube:** [@oneithann](https://www.youtube.com/@oneithann)
+- 💼 **LinkedIn:** [in/oneithan](https://www.linkedin.com/in/oneithan/)
+- 💬 **Discord:** Me encontre como `ONeithan`
 
 ---
 
 <div align="center">
-  <sub>Desenvolvido no Paraná · Potencializado por IA · <a href="https://oneithan.com.br">oneithan.com.br</a></sub>
+  <sub>Desenvolvido no Paraná · Potencializado por IA</sub>
 
 <br>
 
@@ -112,6 +61,4 @@ Confira o vídeo feito com IA sobre o meu livro:
 ██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝███████║
 ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
-
-*“O fim é apenas o começo de um novo ciclo no Nexus.”*
 </div>
