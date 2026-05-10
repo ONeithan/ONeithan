@@ -1,9 +1,4 @@
 <!-- ONeithan — GitHub Profile README -->
-
-<div align="center">
-
-<img src="Logo NEXUS.png" width="400" alt="Logo Nexus">
-
 ### 🌌 **Bem-vindo ao Nexus de ONeithan** 🌌
 
 **Programador Nutella**  
