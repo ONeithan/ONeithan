@@ -2,7 +2,11 @@
 
 ### 👋 Hello World! Eu sou o Nathan (ONeithan)!
 
-Sou um desenvolvedor do **Paraná** apaixonado por tecnologia e automação. Me considero um **Programador Nutella** assumido: uso IA na cara dura para tudo, porque acredito que a inteligência artificial é a maior ferramenta de produtividade da nossa era.
+Sou um desenvolvedor do **Paraná** apaixonado por tecnologia e automação. Uso a **IA para programar** e potencializar absolutamente tudo o que faço, pois acredito que a inteligência artificial é a maior ferramenta de produtividade da nossa era.
+
+> *"O conhecimento é uma ponte entre o registro arcaico e o vácuo estelar."*
+>
+> *"Se não existe, eu faço. Se existe, eu faço do meu jeito."*
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ONeithan&theme=radical" alt="Troféus do GitHub" />
@@ -61,4 +65,6 @@ Sou um desenvolvedor do **Paraná** apaixonado por tecnologia e automação. Me 
 ██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝███████║
 ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
+
+*“O fim é apenas o começo de um novo ciclo no Nexus.”*
 </div>
